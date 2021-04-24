@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nejmeddine500
+- 👋 Hi, I’m Nejmeddine Lakhal
 - 👀 I’m interested in UI Design
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on UI Design
