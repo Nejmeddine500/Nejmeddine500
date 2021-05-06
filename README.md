@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI Design
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on UI Design
-- 📫 How to reach me Mail : Najmeddinelakhal@gmail.com
+- 📫 How to reach me Mail : Lakhal.djo@gmail.com
 
 <!---
 Nejmeddine500/Nejmeddine500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
