@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nejmeddine Lakhal
 - 👀 I’m interested in UI Design
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJS
 - 💞️ I’m looking to collaborate on UI Design
 - 📫 How to reach me Mail : Lakhal.djo@gmail.com
 
